@@ -32,7 +32,7 @@ Maze-Solver/
 │── maze_solution.png (Generated solution image)
 │── README.md (Project documentation)
 │── requirements.txt (Python dependencies)
-└── LICENSE (MIT License)
+
 ```
 
 ---
@@ -109,11 +109,6 @@ Shortest Path:
 
 ---
 
-## 📌 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 📌 Contributors
 💡 **Goutham Parveda**  
 📧 gouth2a3m@gmail.com  
@@ -122,6 +117,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 📌 Acknowledgments
-Special thanks to **Graph Algorithms** and **AI Pathfinding** resources that inspired this project.
+
 
